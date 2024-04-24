@@ -1,4 +1,6 @@
 123
 commit test
 456
-789.
+789."new branch line" 
+"new branch line2" 
+new branch line3 
